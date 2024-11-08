@@ -70,7 +70,7 @@ class StudentIDManager:
 
 # Main program
 if __name__ == "__main__":
-    path = "C:\\CSE366-AI-SEC-2-ID-2021-2-60-046\\lab1\\student_id.txt"
+    path = "C:\\CSE366-AI-SEC-1-ID-2019-3-60-006\\lab1\\student_id.txt"
     manager = StudentIDManager(path)
 
     while True:
